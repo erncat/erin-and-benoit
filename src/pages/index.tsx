@@ -161,8 +161,10 @@ export default function Home() {
             <p>
               To book using group discount, call 8195252255 or Book Online.
               Group discount code “ERC”. Group discount extended 3 days
-              post/prior June 3. Please book accommodations asap to ensure your
-              stay.
+              post/prior June 3. 
+              <br />
+              <s>Please book accommodations asap to ensure your
+                stay.</s>
             </p>
           </div>
         </section>
@@ -172,9 +174,7 @@ export default function Home() {
           <div>
             <h3>Shuttles</h3>
             <p>
-              Shuttles will pick-up at Holiday Inn Gatineau at _ sharp and leave
-              the venue at _ & _. We’ll be making a stop at Casino Lac Leamy for
-              those wishing to continue the party into the wee hours.
+              Shuttles will pick-up at Holiday Inn Gatineau. Please check back here for more info closer to the wedding date.
             </p>
           </div>
 
@@ -190,9 +190,9 @@ export default function Home() {
           <div>
             <h3>Parking</h3>
             <p>
-              There is ample parking at the venue, however we will be providing
-              a shuttle from the Holiday Inn Gatineau, for those wishing to
-              partake in the bar.
+              There is ample parking at the venue. Once you arrive at Golf Mont
+            Cascades you will see the clubhouse, and a barn. The parking is
+            directly behind the barn!
             </p>
           </div>
         </section>
@@ -205,8 +205,7 @@ export default function Home() {
           <TitleFAQ />
           <h3>What should I wear?</h3>
           <p>
-            We want you to be comfortable. The venue is outdoors, but if the
-            weather is bad there are rain curtains and heaters. Dress
+            The venue is outdoors, but if the weather is bad there are rain curtains and heaters. Dress
             accordingly! We’ve put together a lookbook on pinterest if you want
             some ideas. We suggest anything light & bright to kick off summer!
             The weather for June 3 in 2022 was 22 during the day and 15 at
@@ -215,20 +214,20 @@ export default function Home() {
           <h3>Gifts?</h3>
           <p>
             We have most things we need for life and love. If you want to give
-            us a gift, we can always use cash gifts as we look for a new home.
+            us a gift, we can always use cash gifts as we search for a new home.
           </p>
           <h3>Are kids invited?</h3>
           <p>
-            Unfortunately due to numbers, we cannot accommodate kids unless
+            Unfortunately due to numbers & the location of our venue, we cannot accommodate kids unless otherwise
             specified.
           </p>
           <h3>Do I get a +1?</h3>
           <p>
-            Unfortunately due to numbers, we cannot accommodate dates unless
+            Unfortunately due to numbers, we cannot accommodate dates unless otherwise
             specified.
           </p>
           <h3>I don’t want to take the shuttle, options?</h3>
-          <p>Taxi, Ride Program</p>
+          <p>There are some Taxi companies in the area, and a program called "Tolerance Zero" which can drive you, and your car back into the city for a fee</p>
           <h3>Where do I park?</h3>
           <p>
             There is ample parking at the venue, once you arrive at Golf Mont
