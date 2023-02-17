@@ -104,7 +104,7 @@ export default function Home() {
           />
         </section>
         <div className={styles.RVSPBar}>
-          <a href="https://forms.gle/4fmY3QKarCVAuWkS6">RSVP now!!!</a>
+          <a href="https://forms.gle/4fmY3QKarCVAuWkS6">RSVP</a>
         </div>
         <section className={styles.NowAndThen}>
           <div>
@@ -133,7 +133,7 @@ export default function Home() {
             <TitleWhen />
             <p className="large">
               June 3rd, 2023. Ceremony 4pm, followed by cocktails. Dinner at
-              6pm, followed by dance party.
+              6pm, followed by dancing.
             </p>
           </div>
 
@@ -161,8 +161,11 @@ export default function Home() {
             <p>
               To book using group discount, call 8195252255 or Book Online.
               Group discount code “ERC”. Group discount extended 3 days
-              post/prior June 3. Please book accommodations asap to ensure your
-              stay.
+              post/prior June 3. 
+              
+              <b>Please book accommodations asap to ensure your
+                stay.</b>
+              
             </p>
           </div>
         </section>
@@ -179,20 +182,18 @@ export default function Home() {
           </div>
 
           <div>
-            <h3>Driving</h3>
+            <h3>Driving?</h3>
             <p>
-              The venue is out in the boonies, down winding dirt roads. There
+              The venue is far out in the boonies, down winding dirt roads. There
               will be a service available to bring you & your car home for a
-              fee, if desired. Please, no drinking & driving.
+              fee, if desired. Please, <b>no drinking & driving.</b>
             </p>
           </div>
 
           <div>
             <h3>Parking</h3>
             <p>
-              There is ample parking at the venue, however we will be providing
-              a shuttle from the Holiday Inn Gatineau, for those wishing to
-              partake in the bar.
+              There is ample parking at the venue. Once you arrive you will see the clubhouse, and a barn on your left. The parking lot is located past the barn.
             </p>
           </div>
         </section>
@@ -205,13 +206,15 @@ export default function Home() {
           <TitleFAQ />
           <h3>What should I wear?</h3>
           <p>
-            We want you to be comfortable. The venue is outdoors, but if the
-            weather is bad there are rain curtains and heaters. Dress
-            accordingly! We’ve put together a lookbook on pinterest if you want
-            some ideas. We suggest anything light & bright to kick off summer!
+            The venue is outdoors, but if the weather is bad there are rain curtains and heaters. Dress
+            accordingly! We’ve put together a lookbook on <a href="https://pin.it/3mSr8NH">pinterest</a> if you want
+            some ideas. We <b>highly encourage</b> loud, bold colours, and patterns! 
+            
             The weather for June 3 in 2022 was 22 during the day and 15 at
             night.
           </p>
+          
+          
           <h3>Gifts?</h3>
           <p>
             We have most things we need for life and love. If you want to give
